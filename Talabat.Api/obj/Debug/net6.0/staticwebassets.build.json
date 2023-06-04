@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "Hash": "0RFLHtswsGqhZNPDM0wHwRVhcxPP4vgvVz043U6APZ0=",
+  "Source": "Talabat.Api",
+  "BasePath": "_content/Talabat.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "G:\\route\\back-end\\APIs\\project Api\\Talabat.Api.solution\\Talabat.Repository\\Talabat.Repository.csproj",
+      "Version": 2,
+      "Source": "Talabat.Repository",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.Api\\wwwroot",
+      "Source": "Talabat.Api",
+      "ContentRoot": "G:\\route\\back-end\\APIs\\project Api\\Talabat.Api.solution\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\route\\back-end\\APIs\\project Api\\Talabat.Api.solution\\Talabat.Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\route\\back-end\\APIs\\project Api\\Talabat.Api.solution\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
